@@ -1,0 +1,32 @@
+
+.button{
+    color: white;
+    background: #240202;
+    padding: 14px 33px;
+    margin-top: 50px;
+    text-decoration: none;
+    display: block;
+    font-size: 35px;
+    position: relative;
+    font-family: Merrywheater;
+    font-family: Merrywheater;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 35px;
+    
+
+}
+
+.button::after{
+    content: "";
+    height: 34px;
+    width: 28px;
+    background-image: url("../images/freccia.svg");
+    background-size: 28x 34px;
+    color: white;
+    display: block;
+    position: absolute;
+    right: 32px;
+    top: 23px;
+    transform: translate(-50%);
+}

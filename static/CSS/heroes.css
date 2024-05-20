@@ -1,0 +1,11 @@
+.hero.variant-one{
+    padding-top: 130px;
+    padding-bottom: 120px;
+    background-color:#CEFBFF;
+  }
+
+.hero.variant-three{
+    padding-top: 80px;
+    padding-bottom: 200px;
+    background-color: #ECCEFF;
+  }
